@@ -1,0 +1,13 @@
+{
+  "appId": "com.h4ck3r.capchat",
+  "appName": "Cap-Chat",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
