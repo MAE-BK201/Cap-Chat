@@ -1,4 +1,6 @@
 # cap-chat
+A simple android/ios chat application
+
 
 ## Project setup
 ```
